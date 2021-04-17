@@ -6,7 +6,7 @@ description: Gabe Chai is a software engineer specializing in writing automated 
 
 Gabriel Chai is a SDET at [Crossborder Solutions](https://xbs.ai)
 
-[curriculum vitae ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/broman_cv.pdf)<br/>
+[curriculum vitae ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/Gabe_Chai.pdf)<br/>
 [github](https://github.com/gchai)<br/>
-[twitter](https://twitter.com/gchai/) <br/>
+[twitter](https://twitter.com/gabechai/) <br/>
 he/him

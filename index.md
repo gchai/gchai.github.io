@@ -10,7 +10,7 @@ keywords: Developer
       <ul class="nav">
           <li><a href="{{ BASE_PATH }}/Gabe_Chai.pdf">cv</a></li>
           <li><a href="https://github.com/gchai">github</a></li>
-          <li><a href="https://twitter.com/gchai">@gchai</a></li>
+          <li><a href="https://twitter.com/gabechai">@gabechai</a></li>
       </ul>
   </div>
 </div>
