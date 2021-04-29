@@ -14,5 +14,3 @@ keywords: Developer
       </ul>
   </div>
 </div>
-
-This website is under construction!
