@@ -3,6 +3,7 @@
 permalink: /:categories/:year/:month/:day/:title
 
 exclude: [".rvmrc", ".rbenv-version", "ReadMe.md", "Rakefile", "changelog.md", "License.md"]
+# include: [""]
 highlighter: rouge
 
 # Themes are encouraged to use these universal variables
@@ -72,7 +73,6 @@ JB :
   tags_path : nil
   atom_path : nil
   rss_path : nil
-
   # Settings for comments helper
   # Set 'provider' to the comment provider you want to use.
   # Set 'provider' to false to turn commenting off globally.
