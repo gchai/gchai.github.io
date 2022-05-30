@@ -1,0 +1,5 @@
+﻿{
+  "Description": "Domain ownership verification file for Microsoft 365 - place in the website root",
+  "Domain": "gabechai.com",
+  "Id": "11edb103-4a0f-4909-90c7-8e8df186b1d3"
+}
