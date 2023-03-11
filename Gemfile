@@ -1,0 +1,13 @@
+source 'http://rubygems.org'
+
+gem 'jekyll', '3.2.1'
+gem 'rake'
+gem 'rouge', '1.11.1'
+gem 'html-proofer'
+gem 'jemoji', '0.7.0'
+gem 'jekyll-mentions', '1.2.0'
+gem 'jekyll-seo-tag', '2.0.0'
+gem 'jekyll-feed', '0.5.1'
+gem 'jekyll-sitemap', '0.10.0'
+gem 'jekyll-gist', '1.4.0'
+gem 'jekyll-paginate', '1.1.0'

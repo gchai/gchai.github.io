@@ -1,0 +1,59 @@
+---
+layout: none
+permalink: .well-known/keybase.txt
+---
+
+
+https://keybase.io/gchai
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://gabechai.com
+  * I am gchai (https://keybase.io/gchai) on keybase.
+  * I have a public key ASDeb6O8XzukI40QEKZ-KLNeZ9W2nsGBSKoYMzB4EK4Uawo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01015f10c0104451931b26bd955b111cd98a3ae3a5146d78224c710a81e08d44aadc0a",
+      "host": "keybase.io",
+      "kid": "0120de6fa3bc5f3ba4238d1010a67e28b35e67d5b69ec18148aa1833307810ae146b0a",
+      "uid": "4ccd9295f7c4e555d6a6c3c66359ee19",
+      "username": "gchai"
+    },
+    "merkle_root": {
+      "ctime": 1632556955,
+      "hash": "7650779f03d1fb795fbb67eb83392cb9c6b0cc53715102c472c591509b9be4cc764041b1b525cb73e19c0d806aab8cbdab95b46cc4c0f82ab29c3af57ac6372b",
+      "hash_meta": "55d78640d3283bf7e5c2b9b861c7138b92b32d524077b52106caca02b6717a9b",
+      "seqno": 20837755
+    },
+    "service": {
+      "entropy": "Q2AloBYAu24Iau8UGPeTSUxy",
+      "hostname": "gabechai.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.8.0"
+  },
+  "ctime": 1632557019,
+  "expire_in": 504576000,
+  "prev": "3c2e1243e01348f8055818dc7b446ba2efb4c9dd42fd1d7801ac559e76d86d89",
+  "seqno": 42,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg3m+jvF87pCONEBCmfiizXmfVtp7BgUiqGDMweBCuFGsKp3BheWxvYWTESpcCKsQgPC4SQ+ATSPgFWBjce0Rrou+0yd1C/R14AaxVnnbYbYnEIEQ1cOwllS2tPb85xK3qjBklC/d4LYDoNMN74YQvXwljAgHCo3NpZ8RAWnFVUmN56ZPOnxlHnlRuLeydfhddgsGfoyY0zuPatKIcLzdutlYNzFVLDKM+aaFpWOLpvT1ebvBMExpnOZwHAahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIHKfFDnxQShY10nBPTQk9Z7nqJYPyIgLIZ2U8EEo05jwo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/gchai

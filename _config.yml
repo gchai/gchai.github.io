@@ -1,0 +1,116 @@
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: Gabe Chai
+email: g@bechai.com
+
+name: Gabe Chai
+# bio: {Bio}
+
+# description: {Description}
+
+# if it's an external image, update below for true
+# better with square images
+external-image: false
+picture: assets/images/profile.jpg
+
+#baseurl: "" # the subpath of your site, e.g. /blog
+url: ""
+#url: "https://gchai.github.io"
+
+permalink: /:title/
+
+include: [".well-known"]
+
+markdown: kramdown
+highlighter: rouge
+
+# To enable google analytics, supply your token below
+# analytics-google: ''
+
+# To enable piwik tracking, supply your url & site ID below
+# analytics-piwik-url: 'piwik.my-host.com'
+# analytics-piwik-id: 1
+
+# if you don't want comments in your posts, set to false
+disqus: false
+
+# if you don't have any of social below, comment the line
+# facebook: myfacebook
+# twitter: mytwitter
+# google: mygoogle
+# instagram: myinstagram
+# pinterest: mypinterest
+linkedin: gchai
+# youtube: myyoutube
+#spotify: myspotify
+github: gchai
+#medium: medium
+#vimeo: myvimeo
+email: G@beChai.com
+
+#authors:
+#    gchai:
+#        name: name
+#        bio: bio
+#        external-image: false
+#        picture: assets/images/picture.jpg
+#        twitter: twit
+
+# do you want a larger site? change the option below
+# options: [normal, large] | default: normal
+# normal = 560px / large = 810px
+width: normal
+
+# if you don't need pagination, comment the *paginate* configs below
+# paginate: 5
+# paginate_path: "blog/:num/"
+
+# if you don't need projects, comment the *projects* configs below
+projects: false
+
+# if you don't need resume, comment the *resume* configs below
+resume: true
+
+# if you don't need "about" or "blog", comment them out below
+about: false
+blog: false
+
+# do you want to show the "read time" of the posts?
+read-time: false
+
+# do you want to show the "tags" inside the posts?
+show-tags: false
+
+# related posts inside a post?
+related: false
+
+# show next & prev links in blog post?
+blog-nav-links: false
+
+# show author block at the end of a post ?
+show-author: true
+
+# do you want some animations?
+animation: true
+
+sass:
+    sass_dir: _sass
+    style: :compressed
+
+gems:
+  - jemoji
+  - jekyll-mentions
+  - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-paginate
+
+jekyll-mentions:
+    base_url: https://github.com
