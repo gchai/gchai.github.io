@@ -2,3 +2,4 @@
 0.0.0.0 iprofiles.apple.com        # DEP Enrollment Profile
 0.0.0.0 mdmenrollment.apple.com    # MDM / DEP
 0.0.0.0 deviceenrollment.apple.com # DEP provisional enrollment
+0.0.0.0 humb.apple.com
